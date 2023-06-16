@@ -7,7 +7,7 @@ This Solidity smart contract is an implementation of the DegenToken ERC20 token 
 
 ## Description
 
-The DegenToken contract extends the ERC20 contract from the OpenZeppelin library and also inherits the Ownable contract. It creates a token named "Degen" with the symbol "DGN". The contract's constructor function mints 1000 Degen tokens and assigns them to the contract deployer.
+The DegenToken contract extends the ERC20 contract from the OpenZeppelin library and also inherits the Ownable contract. It creates a token named "Degen" with the symbol "DGN".
 
 The contract includes the following functions:
 
